@@ -34,10 +34,10 @@
          <li class="nav-item">
          <a class="nav-link" href="contact.php">Contact Us</a>
   
-  <li class="nav-item">
+  <!-- <li class="nav-item">
 
       <a class="nav-link" href="charts.php">Charts</a>
-      </li>
+      </li> -->
       </li>
   </ul>
   </div>
