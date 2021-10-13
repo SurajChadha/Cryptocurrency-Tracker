@@ -13,3 +13,27 @@
 3.Reach the welcome page and explore the website with fantastic dashboard,graphs and more data.
 4.Go to about section
 5.Leave your comment
+
+## features
+-Dashboard
+     -All currencies
+     -Changing data
+     -Dynamic content
+     -market cap
+     -Search option
+     
+-graphs
+  -different forms of analysis
+  -data changeable
+  -contains API data
+  
+-widgets
+    -Dynamic widgets
+    -Use data
+    -External links
+    
+-About
+    -Information
+    -news
+    -brokerage
+    
