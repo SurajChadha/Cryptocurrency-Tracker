@@ -37,4 +37,18 @@
     -Information
     -news
     -brokerage
+-future features
+    -Add ons
+    -trade 
+    -wallet
+    -more blogs
+    -study analysis 
+-dependencies
+    -SQL
+    -node
+    -React.js
+    -JSON
+    -PHP
+
+
     
