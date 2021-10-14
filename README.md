@@ -38,14 +38,14 @@
     -news
     -brokerage
 
-##future features
+## future features
     -Add ons
     -trade 
     -wallet
     -more blogs
     -study analysis 
 
-##dependencies
+## dependencies
     -SQL
     -node
     -React.js
